@@ -133,7 +133,7 @@ A trove of carefully curated resources and links (on the topics of software, pla
  
  [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
  
- [Nerual Networks and Deep Learning - an online book](neuralnetworksanddeeplearning.com)
+ [Nerual Networks and Deep Learning - an online book](http://neuralnetworksanddeeplearning.com)
  
 
 ## Git and Github
